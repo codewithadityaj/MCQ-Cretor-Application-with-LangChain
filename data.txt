@@ -1,5 +1,23 @@
-Biology is the scientific study of life.[1][2][3] It is a natural science with a broad scope but has several unifying themes that tie it together as a single, coherent field.[1][2][3] For instance, all organisms are made up of cells that process hereditary information encoded in genes, which can be transmitted to future generations. Another major theme is evolution, which explains the unity and diversity of life.[1][2][3] Energy processing is also important to life as it allows organisms to move, grow, and reproduce.[1][2][3] Finally, all organisms are able to regulate their own internal environments.[1][2][3][4][5]
+Machine learning is a technique that discovers previously unknown relationships in data by
+searching potentially very large data sets to discover patterns and trends that go beyond simple statistical a
+nalysis. Machine learning uses sophisticated algorithms that are trained to identify patterns in data, creating m
+odels. Those models can be used to make predictions and categorize data.
 
-Biologists are able to study life at multiple levels of organization,[1] from the molecular biology of a cell to the anatomy and physiology of plants and animals, and evolution of populations.[1][6] Hence, there are multiple subdisciplines within biology, each defined by the nature of their research questions and the tools that they use.[7][8][9] Like other scientists, biologists use the scientific method to make observations, pose questions, generate hypotheses, perform experiments, and form conclusions about the world around them.[1]
+Note that an algorithm isn’t the same as a model. An algorithm is a set of rules and procedures used to 
+solve a specific problem or perform a particular task, while a model is the output or result of applying an algorithm to a data set.
 
-Life on Earth, which emerged more than 3.7 billion years ago,[10] is immensely diverse. Biologists have sought to study and classify the various forms of life, from prokaryotic organisms such as archaea and bacteria to eukaryotic organisms such as protists, fungi, plants, and animals. These various organisms contribute to the biodiversity of an ecosystem, where they play specialized roles in the cycling of nutrients and energy through their biophysical environment.
+Before training, you have an algorithm. After training, you have a model.
+
+For example, machine learning is widely used in healthcare for tasks including medical imaging analysis,
+ predictive analytics, and disease diagnosis. Machine learning models are ideally suited to analyze medical 
+ images, such as MRI scans, X-rays, and CT scans, to identify patterns and detect abnormalities that may not
+  be visible to the human eye or that an overworked diagnostician might miss. Machine learning systems can also 
+  analyze symptoms, genetic information, and other patient data to suggest tests for conditions such as cancer, 
+  diabetes, and heart disease.
+
+The key features of machine learning are the
+
+Automatic discovery of patterns
+Prediction of likely outcomes
+Creation of actionable information
+Ability to analyze very large volumes of data

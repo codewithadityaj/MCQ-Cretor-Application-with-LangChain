@@ -1,6 +1,6 @@
 MCQ,Choices,Correct
-Who coined the term machine learning?,a: Donald Hebb | b: Arthur Samuel | c: Walter Pitts | d: Warren McCulloch,b
-What was the earliest machine learning model introduced by Arthur Samuel?,a: Speech recognition | b: Image classification | c: Checkers game | d: Pattern recognition,c
-Which book introduced the Hebbian theory?,a: The Organization of Behavior | b: Learning Machines | c: Computing Machinery and Intelligence | d: The History of Machine Learning,a
-"In the 1960s, a learning machine called Cybertron was developed to analyze which of the following?",a: Sonar signals | b: Speech patterns | c: Electrocardiograms | d: All of the above,d
-"According to Tom M. Mitchell, what is the definition of machine learning?",a: Improving computer performance | b: Learning from experience to improve task performance | c: Analyzing cognitive processes | d: Developing neural networks,b
+What is the main goal of machine learning?,a: To discover patterns and trends in data | b: To perform simple statistical analysis | c: To create algorithms | d: To categorize data,a
+What is the difference between an algorithm and a model in machine learning?,"a: An algorithm is the output of applying a set of rules, while a model is a set of rules and procedures | b: An algorithm is a set of rules and procedures, while a model is the output of applying an algorithm to a data set | c: An algorithm is used to make predictions, while a model is used to discover patterns | d: An algorithm is a model",b
+Where is machine learning widely used in healthcare?,a: In agriculture | b: In fashion industry | c: In healthcare | d: In construction,c
+What can machine learning models analyze in medical imaging?,"a: Symptoms and genetic information | b: MRI scans, X-rays, and CT scans | c: Patient data | d: All of the above",d
+What are the key features of machine learning?,a: Automatic discovery of patterns | b: Prediction of likely outcomes | c: Creation of actionable information | d: All of the above,d

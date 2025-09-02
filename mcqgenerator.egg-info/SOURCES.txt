@@ -1,0 +1,17 @@
+README.md
+setup.py
+mcqgenerator.egg-info/PKG-INFO
+mcqgenerator.egg-info/PKG-INFO:Zone.Identifier
+mcqgenerator.egg-info/SOURCES.txt
+mcqgenerator.egg-info/SOURCES.txt:Zone.Identifier
+mcqgenerator.egg-info/dependency_links.txt
+mcqgenerator.egg-info/dependency_links.txt:Zone.Identifier
+mcqgenerator.egg-info/requires.txt
+mcqgenerator.egg-info/requires.txt:Zone.Identifier
+mcqgenerator.egg-info/top_level.txt
+mcqgenerator.egg-info/top_level.txt:Zone.Identifier
+src/__init__.py
+src/mcqgenerator/MCQGenerator.py
+src/mcqgenerator/__init__.py
+src/mcqgenerator/logger.py
+src/mcqgenerator/utils.py

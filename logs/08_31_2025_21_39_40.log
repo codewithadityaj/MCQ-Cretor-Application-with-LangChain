@@ -1,0 +1,2 @@
+[2025-08-31 21:40:03,448] 1071 openai._base_client - INFO - Retrying request to /chat/completions in 0.446323 seconds
+[2025-08-31 21:40:13,905] 1071 openai._base_client - INFO - Retrying request to /chat/completions in 0.837813 seconds
